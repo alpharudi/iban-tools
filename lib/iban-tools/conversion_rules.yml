@@ -352,3 +352,9 @@
 'VG':
   bank_code: 4!c
   account_number: 16!n
+
+'XK':
+  bank_code: 2!n
+  branch_code: 2!n
+  account_number: 10!n
+  check_digits: 2!c

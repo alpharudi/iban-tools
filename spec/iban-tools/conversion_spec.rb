@@ -74,6 +74,7 @@ module IBANTools
       'UA213223130000026007233566001' => {bank_code: '322313', account_number: '26007233566001'},
       'VA59001123000012345678' => {bank_code: '1', account_number: '123000012345678'},
       'VG96VPVG0000012345678901' => {bank_code: 'VPVG', account_number: '12345678901'},
+      'XK051212012345678906' => { bank_code: '12', branch_code: '12', account_number: '123456789', check_digits: '6'},
     }
 
     describe '::local2iban' do
