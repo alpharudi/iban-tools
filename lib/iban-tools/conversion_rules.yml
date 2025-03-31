@@ -66,6 +66,12 @@
   bank_code: 2!c
   account_number: 22!n
 
+'BR':
+  bank_code: 8!n
+  branch_code: 5!n
+  account_number: 10!n
+  account_type: 2!c
+
 'CH':
   bank_code: 5!n
   account_number: 12!c
