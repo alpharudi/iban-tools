@@ -66,9 +66,20 @@
   bank_code: 2!c
   account_number: 22!n
 
+'BR':
+  bank_code: 8!n
+  branch_code: 5!n
+  account_number: 10!n
+  account_type: 2!c
+
 'CH':
   bank_code: 5!n
   account_number: 12!c
+
+'CR':
+  reserved: 1!c
+  bank_code: 3!n
+  account_number: 14!n
 
 'CY':
   bank_code: 3!n
@@ -97,6 +108,11 @@
   branch_code: 2!n
   account_number: 10!n
   check_digits: 2!n
+
+'EG':
+  bank_code: 4!c
+  branch_code: 4!n
+  account_number: 17!n
 
 'ES':
   account_number: 20!n
@@ -311,6 +327,10 @@
   branch_code: 5!n
   account_number: 12!c
 
+'SV':
+  bank_code: 4!c
+  account_number: 20!n
+
 'TN':
   bank_code: 2!n
   branch_code: 3!n
@@ -321,6 +341,10 @@
   reserved: 1!c
   account_number: 16!c
 
+'UA':
+  bank_code: 6!n
+  account_number: 19!n
+
 'VA':
   bank_code: 3!n
   account_number: 15!n
@@ -328,3 +352,9 @@
 'VG':
   bank_code: 4!c
   account_number: 16!n
+
+'XK':
+  bank_code: 2!n
+  branch_code: 2!n
+  account_number: 10!n
+  check_digits: 2!c
