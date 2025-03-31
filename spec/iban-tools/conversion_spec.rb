@@ -16,6 +16,7 @@ module IBANTools
       'BJ66BJ0610100100144390000769' => {bank_code: 'BJ', account_number: '610100100144390000769'},
       'BR1800360305000010009795493C1' => {bank_code: '360305', branch_code: '1', account_number: '9795493', account_type: 'C1'},
       'CH9300762011623852957' => {bank_code: '762', account_number: '11623852957'},
+      'CR05015202001026284066' => {reserved: '0', bank_code: '152', account_number: '2001026284066'},
       'CY17002001280000001200527600' => {bank_code: '2', branch_code: '128', account_number: '1200527600'},
       'CZ6508000000192000145399' => {bank_code: '800', account_prefix: '19', account_number: '2000145399'},
       'DE89370400440532013000' => {blz: '37040044', account_number: '532013000'},

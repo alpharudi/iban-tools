@@ -76,6 +76,11 @@
   bank_code: 5!n
   account_number: 12!c
 
+'CR':
+  reserved: 1!c
+  bank_code: 3!n
+  account_number: 14!n
+
 'CY':
   bank_code: 3!n
   branch_code: 5!n
