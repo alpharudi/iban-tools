@@ -23,6 +23,7 @@ module IBANTools
       'DK5000400440116243' => {bank_code: '40', account_number: '440116243'},
       'DO28BAGR00000001212453611324' => {bank_code: 'BAGR', account_number: '1212453611324'},
       'EE382200221020145685' => {bank_code: '22', branch_code: '0', account_number: '2210201456', check_digits: '85'},
+      'EG380019000500000000263180002' => { bank_code: '19', branch_code: '5', account_number: '263180002'},
       'ES9121000418450200051332' => {account_number: '21000418450200051332'},
       'FI2112345600000785' => {bank_code: '123456', account_number: '78', check_digit: '5'},
       'FO7630004440960235' => {bank_code: '3000', account_number: '444096023', check_digit: '5'},

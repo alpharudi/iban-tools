@@ -109,6 +109,11 @@
   account_number: 10!n
   check_digits: 2!n
 
+'EG':
+  bank_code: 4!c
+  branch_code: 4!n
+  account_number: 17!n
+
 'ES':
   account_number: 20!n
 
