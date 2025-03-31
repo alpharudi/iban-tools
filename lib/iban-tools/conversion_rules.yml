@@ -327,6 +327,10 @@
   reserved: 1!c
   account_number: 16!c
 
+'UA':
+  bank_code: 6!n
+  account_number: 19!n
+
 'VA':
   bank_code: 3!n
   account_number: 15!n
