@@ -68,6 +68,7 @@ module IBANTools
       'SI56191000000123438' => {bank_code: '19', branch_code: '100', account_number: '1234', check_digits: '38'},
       'SK3112000000198742637541' => {bank_code: '1200', account_prefix: '19', account_number: '8742637541'},
       'SM86U0322509800000000270100' => {check_char: 'U', bank_code: '3225', branch_code: '9800', account_number: '270100'},
+      'SV62CENR00000000000000700025' => {bank_code: 'CENR', account_number: '700025'},
       'TN5914207207100707129648' => {bank_code: '14', branch_code: '207', account_number: '207100707129648'},
       'TR330006100519786457841326' => {bank_code: '61', reserved: '0', account_number: '519786457841326'},
       'UA213223130000026007233566001' => {bank_code: '322313', account_number: '26007233566001'},

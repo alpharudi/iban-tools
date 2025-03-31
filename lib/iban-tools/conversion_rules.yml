@@ -327,6 +327,10 @@
   branch_code: 5!n
   account_number: 12!c
 
+'SV':
+  bank_code: 4!c
+  account_number: 20!n
+
 'TN':
   bank_code: 2!n
   branch_code: 3!n
